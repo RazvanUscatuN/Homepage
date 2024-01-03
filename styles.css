@@ -2,6 +2,8 @@ html {
     height: 100%;
 }
 
+
+
 *{
     padding: 0;
     margin: 0;
@@ -13,6 +15,8 @@ body{
     flex-direction: column;
     min-height: 100%;
 }
+
+
 
 .socialIcons{
     display: flex;
@@ -68,3 +72,5 @@ body{
     align-self: center;
 
 }
+
+
