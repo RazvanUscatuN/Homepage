@@ -36,6 +36,21 @@ body {
   display: flex;
   flex-direction: column;
   margin-bottom: 0.3em;
+}
+
+.card{
+  display:flex;
+  /* height: 100%; */
+}
+
+.card-text {
+  display: flex;
+  flex-grow: 1;
+}
+.card-body a {
+  display:flex;
+  flex-direction: column;
+  justify-self: flex-end;
   
 }
 
