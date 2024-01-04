@@ -15,7 +15,9 @@ body {
   background-color: rgb(24, 24, 24);
 }
 
-
+.nav-link{
+  font-size: 1.3rem;
+ }
 
 
 

@@ -15,8 +15,35 @@ body {
   background-color: rgb(24, 24, 24);
 }
 
+.nav-link{
+  font-size: 1.3rem;
+ }
+
+.article-section-left {
+  display: flex;
+  padding: 50px;
+}
+
+.article-title {
+  font-weight: 800;
+}
 
 
+.article-text-box {
+  display: flex;
+  flex-direction: column;
+  color:white;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+  gap: 3em;
+  padding: 3em;
+}
+
+.article-link  {
+  text-decoration: none; 
+  color: orange;
+}
 
 
 
