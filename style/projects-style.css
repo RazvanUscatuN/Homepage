@@ -19,7 +19,8 @@ body {
   display: flex;
   color:white;
   justify-content: center;
-  /* margin-top: 4rem; */
+  margin-bottom: 4rem;
+  
 }
 
 .nav-link{

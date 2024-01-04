@@ -26,9 +26,10 @@ body {
   flex-direction: column;
   width: 50%;
   color: white;
-  min-height: 40vh;
+  gap: 1rem;
   justify-content: center;
- 
+  min-height: 100vh;
+
 }
 
 /* Button animation style */
@@ -36,7 +37,7 @@ body {
 .button {
   display: flex;
   align-self: center;
-  
+  margin-top: 1rem;
   position: relative;
   padding: 10px 22px;
   border-radius: 6px;
